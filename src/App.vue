@@ -2,7 +2,7 @@
 </script>
 
 <template>
-
+  <h1>Yeni başlık eklendi</h1>
 </template>
 
 <style>
